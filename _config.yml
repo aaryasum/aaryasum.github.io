@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Aarya Sumuk"
-  pronouns         : "she/her"  
-  bio              : "MS Robotics @ Stanford. I build learning-based robotic systems for contact-rich manipulation, teleoperation, and perception."
+  pronouns         : # "she/her"  
+  bio              : "MS Robotics @ Stanford"
   location         : "Palo Alto, CA"
   employer         : "Stanford University"
   uri              : # URL
