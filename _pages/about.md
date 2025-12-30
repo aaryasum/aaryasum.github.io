@@ -16,4 +16,4 @@ At Stanford, I have conducted research at the [IPRL Lab](https://iprl.stanford.e
 
 Before Stanford, I completed my undergraduate degree at IIT Madras, where my research focused on assistive devices and mechatronic system design. Outside of research, I’m a member of [Stanford Counterpoint](https://www.stanfordcounterpoint.com/), an all-women a cappella group, and I enjoy playing the guitar and swimming.
 
-If any of my work or interests resonate with you, feel free to reach out—I’m always happy to chat!
+If any of my work or interests resonate with you, feel free to reach out! I’m always happy to chat:)
