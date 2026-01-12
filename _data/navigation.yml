@@ -11,8 +11,8 @@ main:
   - title: "CV"
     url: /files/Aarya_Sumuk_CV.pdf
 
-  - title: "Research"
-    url: /publications/
+  # - title: "Research"
+  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
